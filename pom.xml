@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>newp</groupId>
-  <artifactId>newpro</artifactId>
+  <groupId>gopipro</groupId>
+  <artifactId>gopipro123</artifactId>
   <packaging>war</packaging>
-  <version>newpro123</version>
-  <name>newpro</name>
+  <version>1.0-SNAPSHOT</version>
+  <name>gopipro123</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>newpro</finalName>
+    <finalName>gopipro123</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
