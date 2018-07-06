@@ -130,7 +130,11 @@
         <cxf.version>3.0.4</cxf.version>
     </properties>
     <build>
+<<<<<<< HEAD
         <finalName>homeproject1</finalName>
+=======
+        <finalName>swetha1</finalName>
+>>>>>>> e004454aecc82d894ee47fc22ca2c441099c5aa9
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
